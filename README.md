@@ -1,1 +1,3 @@
 # flashygoldchain
+
+<strong>flashygoldchaincometh</strong>
